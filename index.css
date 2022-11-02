@@ -1,0 +1,62 @@
+body{
+  background-color:#ffffff;
+  margin-left: 50px;
+  font-family:"montserrat";
+
+}
+.navbar-brand{
+  font-family:"montserrat-black";
+  font-size: xx-large;
+  font-weight: bolder;
+}
+.Box1{
+  font-family:"montserrat-black";
+  font-size: xx-large;
+  font-weight: bolder;
+}
+.nav-link{
+  font-style: italic;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.img1{
+  height: 500px;;
+  width: 1010px;;
+}
+/* *{
+  box-sizing: border-box;
+
+} */
+/* .box{
+  float:left;
+  width:50%;
+  padding: 50px;; */
+
+/* } */
+/* hr{
+  background-color: black;
+  size: 4px;;
+  width: 40px;;
+  text-align: right;
+} */
+.card{
+  padding: 5% 5% 3%;
+  background-color:#002;
+
+  
+}
+.function{
+  float: left;
+}
+header{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: xx-large;
+font-weight: bolder;
+color:yellow;
+}
+p{
+  color:white;
+}
+hr{
+  color:whitesmoke;
+}
